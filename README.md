@@ -69,3 +69,4 @@ Excel / CSV – Data Source Integratio
 
 ScreenShot:
 
+https://github.com/labhanshsachdeva/Blinkit-Sales-Dashboard/blob/main/Dashboard.png
